@@ -1,0 +1,6 @@
+golden_retriever
+german_shepherd
+pug
+bulldog
+beagle
+labrador_retriever
